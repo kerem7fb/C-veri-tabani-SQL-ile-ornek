@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\10-M\deneme11\deneme11\bin\Debug\deneme11.exe.config
+C:\Users\user\Desktop\10-M\deneme11\deneme11\bin\Debug\deneme11.exe
+C:\Users\user\Desktop\10-M\deneme11\deneme11\bin\Debug\deneme11.pdb
+C:\Users\user\Desktop\10-M\deneme11\deneme11\obj\Debug\deneme11.Form1.resources
+C:\Users\user\Desktop\10-M\deneme11\deneme11\obj\Debug\deneme11.Form2.resources
+C:\Users\user\Desktop\10-M\deneme11\deneme11\obj\Debug\deneme11.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\deneme11\deneme11\obj\Debug\deneme11.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\deneme11\deneme11\obj\Debug\deneme11.exe
+C:\Users\user\Desktop\10-M\deneme11\deneme11\obj\Debug\deneme11.pdb
+C:\Users\user\Desktop\10-M\deneme11\deneme11\obj\Debug\deneme11.csprojResolveAssemblyReference.cache
